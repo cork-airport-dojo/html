@@ -1,0 +1,11 @@
+h1 {
+    font-size: 2em !important;
+}
+
+body {
+    font-size: 6px;
+}
+
+.hidden {
+    visibility: hidden;
+}
